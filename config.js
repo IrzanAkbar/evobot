@@ -1,0 +1,8 @@
+{
+  "TOKEN": "MTMyNTc4NTE2OTAzNDA4ODQ2OA.GiPCH_.-_IsmM6iJ7gsWudaGAmTiCmIX8Yf1rvcOzpedg",
+  "MAX_PLAYLIST_SIZE": 10,
+  "PRUNING": false,
+  "LOCALE": "en",
+  "DEFAULT_VOLUME": 100,
+  "STAY_TIME": 30
+}
